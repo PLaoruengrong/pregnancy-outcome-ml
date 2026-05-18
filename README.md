@@ -53,7 +53,7 @@ Examples of input variables:
 
 Examples of predicted outcomes:
 
-* Large for Gestational Age (LGA)
+* Large for gestational age (LGA)
 * Pregnancy-induced hypertension (PIH)
 * Fetal macrosomia
 * NICU admission
