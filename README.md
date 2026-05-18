@@ -4,7 +4,7 @@
 
 This project explores the use of machine learning models to analyze pregnancy outcomes associated with excessive gestational weight gain (EWG) using retrospective clinical data.
 
-The dataset contains 532 patient samples collected during previous clinical research on pregnancy outcomes according to Asian BMI classification.
+The dataset contains 532 retrospective clinical samples related to pregnancy outcomes and excessive gestational weight gain according to Asian BMI classification.
 
 The objective of this project is not to develop a production-level medical AI system, but to explore how basic machine learning methods can be applied to real-world clinical datasets for predictive analysis and outcome interpretation.
 
@@ -76,7 +76,7 @@ Examples of predicted outcomes:
 
 ## Evaluation Metrics
 
-The project uses:
+Evaluation metrics include:
 
 * Accuracy
 * Precision
