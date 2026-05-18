@@ -74,6 +74,32 @@ Examples of predicted outcomes:
 
 ---
 
+## Results
+
+Binary classification of large for gestational age (LGA) outcomes improved model performance compared to the original multi-class classification approach.
+
+The Logistic Regression model achieved:
+- Test ROC-AUC: 0.615
+- Test Accuracy: 0.68
+
+Exploratory analysis suggested excessive gestational weight gain (EWG) demonstrated positive association with both LGA and pregnancy-induced hypertension (PIH) outcomes.
+
+Model interpretation was additionally compared against clinical reasoning to identify limitations related to class imbalance and rare-event frequencies.
+
+---
+
+## Example Outputs
+
+### Correlation Heatmap (LGA Analysis)
+
+![LGA Heatmap](figures/heatmap.png)
+
+### Confusion Matrix (Binary LGA Classification)
+
+![LGA Confusion Matrix](figures/confusion_matrix.png)
+
+---
+
 ## Evaluation Metrics
 
 Evaluation metrics include:
