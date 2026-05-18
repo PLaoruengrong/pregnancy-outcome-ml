@@ -8,6 +8,8 @@ The dataset contains 532 patient samples collected during previous clinical rese
 
 The objective of this project is not to develop a production-level medical AI system, but to explore how basic machine learning methods can be applied to real-world clinical datasets for predictive analysis and outcome interpretation.
 
+Due to privacy and ethical considerations involving retrospective clinical data, the original dataset is not publicly distributed in this repository.
+
 ---
 
 ## Objectives
