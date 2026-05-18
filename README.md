@@ -50,14 +50,13 @@ Examples of input variables:
 * Previous macrosomia
 * Prior caesarean section
 * Gestational age
-* Gestational diabetes mellitus (GDM)
-* Pregnancy-induced hypertension (PIH)
 
 Examples of predicted outcomes:
 
+* Large for Gestational Age (LGA)
+* Pregnancy-induced hypertension (PIH)
 * Fetal macrosomia
 * NICU admission
-* Caesarean section
 * Dystocia
 * Postpartum hemorrhage (PPH)
 
